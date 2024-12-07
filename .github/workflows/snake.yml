@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit Generated Assets
         run: |
-          git config user.name "muhiddinovismoil"
-          git config user.email "muhiddinovismoil2@gmail.com"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add dist/
           git commit -m "Update contribution snake"
           git push origin main
