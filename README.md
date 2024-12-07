@@ -24,10 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ismoil-muhiddinov)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
 
-### Here is my Contributions
-
-## 🐍 My Contribution Snake
-![Contribution Snake](https://github.com/muhiddinovismoil.png?size=100&layout=full&count_private=true)
 
 <!---
 muhiddinovismoil/muhiddinovismoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
