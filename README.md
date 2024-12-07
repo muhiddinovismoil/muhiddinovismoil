@@ -25,7 +25,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
 
 ### Contributions
-![snake gif](https://github.com/muhiddinovismoil/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/muhiddinovismoil/muhiddinovismoil/blob/output/github-contribution-grid-snake.gif)
 <!---
 muhiddinovismoil/muhiddinovismoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
