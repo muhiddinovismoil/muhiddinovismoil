@@ -14,7 +14,7 @@
 
 # 🌟 Ismoil Muhiddinov
 
-![Wave Animation](https://raw.githubusercontent.com/username/repository-name/main/assets/wave.svg)
+![Wave Animation](/home/ismoil/Documents/stacked-peaks-haikei.svg)
 
 ---
 
