@@ -12,10 +12,6 @@
 ### 🔥 Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhiddinovismoil&theme=radical)](https://git.io/streak-stats)
 
-# 🌟 Ismoil Muhiddinov
-
-![Wave Animation](./stacked-peaks-haikei.svg)
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Passionate+Coder;Always+Learning!)](https://git.io/typing-svg)
