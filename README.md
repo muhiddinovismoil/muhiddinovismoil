@@ -14,7 +14,7 @@
 
 # 🌟 Ismoil Muhiddinov
 
-![Wave Animation](/home/ismoil/Documents/stacked-peaks-haikei.svg)
+![Wave Animation](./stacked-peaks-haikei.svg)
 
 ---
 
