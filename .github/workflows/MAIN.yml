@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: muhiddinovismoil
-
+          github_token: ${{ secrets.GH_TOKEN }}
           # Generate multiple output types
           outputs: |
             dist/github-snake.svg
