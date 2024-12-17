@@ -18,6 +18,10 @@
 ### 🛠️ Tools and Skills
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚀 Skills and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git" />
+</p>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiddinovismoil&theme=react-dark&hide_border=true&area=true)
 ### 🤝 Connect with Me  
