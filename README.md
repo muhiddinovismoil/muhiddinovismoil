@@ -1,32 +1,51 @@
 # 🌟 Ismoil Muhiddinov  
-**Full Stack Developer** | Building the Future of the Web  
-![Animated Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+**Full Stack Developer** | Building Modern Web Applications  
 
+---
 
-### 📊 GitHub Stats
-![Ismoil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhiddinovismoil&show_icons=true&theme=radical&count_private=true)
+### 👋 Welcome!  
+Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dynamic, user-friendly, and scalable web solutions. I love coding, learning new technologies, and contributing to impactful projects.
+
+---
+
+### 🚀 About Me  
+- 💻 **Tech Stack:** JavaScript (Node.js, React), Python, MongoDB, Express.js  
+- 🌱 **Currently Exploring:** Advanced backend systems and cloud integrations  
+- 🎯 **Goal:** To make meaningful contributions to open-source projects  
+- 🛠️ **Tools I Love:** VS Code, Git, Postman  
+
+---
+
+### 📊 GitHub Insights  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhiddinovismoil&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiddinovismoil&layout=compact&theme=radical)
 
 ---
 
-### 🔥 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhiddinovismoil&theme=radical)](https://git.io/streak-stats)
+### 💻 Tech Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git" alt="Tech Skills" />
+</p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Passionate+Coder;Always+Learning!)](https://git.io/typing-svg)
-### 🛠️ Tools and Skills
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-### 🚀 Skills and Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git" />
-</p>
+### 🌐 Connect with Me  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ismoil-muhiddinov)  
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiddinovismoil&theme=react-dark&hide_border=true&area=true)
-### 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ismoil-muhiddinov)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
+---
+
+### 🔗 Additional Highlights  
+- 🏆 **GitHub Streaks:**  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhiddinovismoil&theme=radical)](https://git.io/streak-stats)  
+
+- 📈 **Contribution Graph:**  
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiddinovismoil&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 💡 Fun Fact  
+*"Coding is not just a profession, it's my art!"*
 
 ### Contributions
 ![snake_gif](https://github.com/muhiddinovismoil/muhiddinovismoil/blob/output/github-contribution-grid-snake.svg)
