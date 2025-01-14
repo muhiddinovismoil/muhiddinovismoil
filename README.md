@@ -34,11 +34,6 @@ Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dy
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
 
 ---
-
-### 🔗 Additional Highlights  
-- 🏆 **GitHub Streaks:**  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhiddinovismoil&theme=radical)](https://git.io/streak-stats)  
-
 - 📈 **Contribution Graph:**  
   ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiddinovismoil&theme=react-dark&hide_border=true&area=true)
 
