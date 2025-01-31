@@ -18,7 +18,6 @@ Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dy
 
 ### 📊 GitHub Insights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhiddinovismoil&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiddinovismoil&layout=compact&theme=radical)
 
 ---
 
@@ -26,12 +25,6 @@ Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dy
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git" alt="Tech Skills" />
 </p>
-
----
-
-### 🌐 Connect with Me  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ismoil-muhiddinov)  
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
 
 ---
 - 📈 **Contribution Graph:**  
