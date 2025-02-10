@@ -36,7 +36,7 @@ Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dy
 *"Coding is not just a profession, it's my art!"*
 
 ### Contributions
-![snake_gif](https://github.com/muhiddinovismoil/muhiddinovismoil/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/muhiddinovismoil/muhiddinovismoil/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
 muhiddinovismoil/muhiddinovismoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
