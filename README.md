@@ -25,48 +25,14 @@ Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dy
 ---
 
 ### 💻 Tech Skills  
-<table align="center">
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" /></td>
-    <td><img src="https://skillicons.dev/icons?i=css" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ts" /></td>
-    <td><img src="https://skillicons.dev/icons?i=react" /></td>
-    <td><img src="https://skillicons.dev/icons?i=redux" /></td>
-    <td><img src="https://skillicons.dev/icons?i=next" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mui" /></td>
-    <td><img src="https://skillicons.dev/icons?i=antdesign" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
-    <td><img src="https://skillicons.dev/icons?i=express" /></td>
-    <td><img src="https://skillicons.dev/icons?i=hono" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=grammy" /></td>
-    <td><img src="https://skillicons.dev/icons?i=telegraf" /></td>
-    <td><img src="https://skillicons.dev/icons?i=python" /></td>
-    <td><img src="https://skillicons.dev/icons?i=c" /></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=docker" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git" /></td>
-    <td><img src="https://skillicons.dev/icons?i=github" /></td>
-    <td><img src="https://skillicons.dev/icons?i=linux" /></td>
-    <td><img src="https://skillicons.dev/icons?i=bash" /></td>
-    <td><img src="https://skillicons.dev/icons?i=terminal" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=neovim" /></td>
-    <td><img src="https://skillicons.dev/icons?i=zsh" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mui,nodejs,express,nestjs,python,c,postgres,mysql,mongodb,docker,git,github,linux,bash,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Ant_Design.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Hono_logo.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Telegram_Messenger.png" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Gnome-terminal.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Z_Shell_logo.svg" width="48" height="48" />
+</p>
 
 
 
