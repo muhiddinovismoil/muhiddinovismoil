@@ -26,8 +26,15 @@ Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dy
 
 ### 💻 Tech Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,nodejs,express,hono,nestjs,postgres,mysql,mongodb,docker,python,c,tailwind,mui,antdesign,git,github,linux,bash,terminal,vscode,neovim,zsh,grammy,telegraf" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mui,antdesign" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,hono,nestjs,grammy,telegraf,python,c" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=bash,terminal,vscode,neovim,zsh" />
 </p>
+
 
 ---
 - 📈 **Contribution Graph:**  
