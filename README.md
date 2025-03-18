@@ -40,7 +40,7 @@ I thrive on **coding, problem-solving, and exploring new technologies** to build
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mui,nodejs,express,nestjs,python,c,postgres" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,bash,vscode,hono" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,bash,vscode,vercel,aws,emotion,netlify,postman,prisma,npm,pnpm" />
 </p>
 
 
