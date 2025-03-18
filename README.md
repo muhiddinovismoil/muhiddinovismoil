@@ -6,17 +6,29 @@
 
 ---
 
-### 👋 Welcome!  
-Hi there! I'm Ismoil, a passionate Full Stack Developer committed to crafting dynamic, user-friendly, and scalable web solutions. I love coding, learning new technologies, and contributing to impactful projects.
+# 👋 Welcome to My GitHub!  
+
+Hi there! I'm **Ismoil**, a passionate **Full Stack Developer** dedicated to crafting **dynamic, user-friendly, and scalable web solutions**. 🚀  
+I thrive on **coding, problem-solving, and exploring new technologies** to build impactful projects.  
 
 ---
 
-### 🚀 About Me  
-- 💻 **Tech Stack:** JavaScript (Node.js, React), Python, MongoDB, Express.js  
-- 🌱 **Currently Exploring:** Advanced backend systems and cloud integrations  
-- 🎯 **Goal:** To make meaningful contributions to open-source projects  
-- 🛠️ **Tools I Love:** VS Code, Git, Postman  
+## 🚀 About Me  
 
+🔹 **Tech Stack:**  
+&nbsp;&nbsp;&nbsp;📌 JavaScript (**Node.js, React, Express.js**), Python, TypeScript  
+&nbsp;&nbsp;&nbsp;📌 Databases: **MongoDB, PostgreSQL, MySQL**  
+
+🔹 **Currently Exploring:**  
+&nbsp;&nbsp;&nbsp;📌 **Advanced backend systems, cloud integrations, and microservices**  
+
+🔹 **My Goals:**  
+&nbsp;&nbsp;&nbsp;📌 **Contribute to open-source projects and build innovative solutions**  
+
+🔹 **Tools I Love:**  
+&nbsp;&nbsp;&nbsp;🛠️ **VS Code, Git, Postman, Docker, Linux**  
+
+---
 ---
 
 ### 📊 GitHub Insights  
